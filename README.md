@@ -1,4 +1,4 @@
-## 1. Tutorials
+## 1. Tutorials and Tech's
 - <a href="http://www.yiibai.com/" target="_blank">易百教程</a> - 专注于IT教程和实例
 - <a href="http://www.runoob.com/" target="_blank">菜鸟教程</a> - 提供了HTML，CSS，Javascript，Python，Java，Ruby，C，PHP , MySQL等基础知识与在线实例
 - [Programming Tutorials and Source Code Examples](http://www.java2s.com/) - Java, Mobile, C# /C++ /C, Database
@@ -22,7 +22,7 @@
 - <a href="http://bestcbooks.com/" target="_blank">计算机书籍控</a>
 - <a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank">免费的计算机编程类中文书籍</a>
 
-## 2. Tools
+## 2. Tools 
 - [Compile and Execute Programs Online](http://compileonline.com/)  - You can compile and run, execute your source code related to Java, JSP, Cold Fusion, C, C++, Pascal, Fortran, PHP, Perl, Ruby and Python programs onnline using your browsers, iPhone, iPad or any other online device like smart TV using this virtual Linux / Unix  Server.
 - [StackEdit](https://stackedit.io/editor) - In-browser markdown editor
 - [在线工具](http://tool.oschina.net/) - 提供jsbin在线 CSS，JS 调试，Less CSS编译器，MarkDown编译器等其他在线工具
@@ -38,7 +38,7 @@
 - [Download Source Code](http://books.brainysoftware.com/download) - AJAX, AngularJS, Java, Database
 - [HTML5 UP](https://html5up.net/) - Responsive HTML5 and CSS3 Site Templates
 
-## 4. Others
+## 4. Others info
 - [Json在线解析及格式化验证](http://www.json.cn/)
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [HTML色彩代码](http://html-color-codes.info/chinese/)
